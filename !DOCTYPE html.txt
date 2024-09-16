@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <tittle>My Resume</tittle>
+    </head>
+    <body>
+        <h1>Summary</h1>
+        <p>i am a b.tech student with focus on computer science and animation . I am passionate advancing skills. </p>
+
+        <h1>Education</h1>
+        <ul>
+            <li>b.tech in computer science and design,MIT institute ,aurangabad.I take addmision in the year 2024</li>
+            <li>higher Education in ambedkar collage</li>
+        </ul>
+        <h1>Work experience</h1>
+        <ul>
+            <li>web devlopment(HTML,CSS,Java Script)</li>
+            <li>designer to enhance the users</li>
+        </ul>
+        <h1>skills</h1>
+        <ul>
+            <li>programming language</li>
+            <li>Graphics Design</li>
+        </ul>
+        <h1>profile photo </h1>
+        <img src="https://tse1.mm.bing.net/th?id=OIP.v0k8EPA6XrsIV7kRzVfLJQHaLH&pid=Api" alt="profile photo" height="200px">
+
+    </body>
+</html>
